@@ -1,0 +1,1 @@
+# Laboratorio-de-IA-Generativa-Modelos-de-Linguagem-e-Azure-AI
